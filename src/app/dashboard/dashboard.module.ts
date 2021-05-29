@@ -10,6 +10,6 @@ import { DashboardPageComponent } from './dashboard-page/dashboard-page.componen
   ],
   imports: [
     CommonModule
-  ]
+  ],
 })
 export class DashboardModule { }
