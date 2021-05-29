@@ -55,7 +55,14 @@
   align-self: flex-end;
   margin-top: 0.25rem;
   font-size: 0.875rem;
+}
 
+.negative-variation-border{
+  border-left: solid var(--negative-variation-color) 4px;
+}
+
+.stock-value-container .negative-variation{
+  background-color: var(--negative-variation-color);
 }
 
 
